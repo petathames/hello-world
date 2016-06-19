@@ -1,4 +1,4 @@
 # hello-world
 Version control tutorial
 
-I know nothing about git.
+Nothing like learning git on a rainy day
